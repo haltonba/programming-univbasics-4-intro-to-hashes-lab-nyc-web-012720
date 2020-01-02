@@ -3,7 +3,11 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  halton = {
+    age: 25,
+    height: "6'2",
+    hometown: "New York, NY"
+  }
 end
 
 def pioneer
