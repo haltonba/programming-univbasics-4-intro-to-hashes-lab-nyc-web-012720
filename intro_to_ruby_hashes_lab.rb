@@ -17,7 +17,7 @@ def pioneer
 end
 
 def id_generator
-  number: = {
+  number = {
     id: 4
   }
 end
