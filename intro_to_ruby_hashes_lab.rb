@@ -25,6 +25,7 @@ end
 def my_hash_creator(key, value)
   empty_hash = {}
   empty_hash[key] = value
+  empty_hash
 end
 
 def read_from_hash(hash, key)
